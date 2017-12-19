@@ -1,5 +1,6 @@
 #include<stdio.h>
 int global = 100;          // global variable declared
+void func1();
 void main()
 {
    int local = 10;         // local variable declared
